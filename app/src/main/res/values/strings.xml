@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buzzer</string>
+    <string name="enter_your_name_here">Enter Your Name Here.</string>
+    <string name="submit">Submit</string>
+    <string name="enter_password_to_log_in_as_admin">Enter Password To Log In As Admin.</string>
+    <string name="tab_to_answer">Tab To Answer</string>
+    <string name="can_answer">Can Answer</string>
+</resources>

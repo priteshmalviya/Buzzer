@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097510303755",
+    "project_id": "buzzer-8551d",
+    "storage_bucket": "buzzer-8551d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097510303755:android:006794cbd91aeafdde6f0e",
+        "android_client_info": {
+          "package_name": "com.example.buzzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097510303755-39gt35tlot1ml52vlorlphc7ensa5gpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buzzer",
+            "certificate_hash": "f08619f183b7f179c6c7ed76e5f6c39bbf19d8e6"
+          }
+        },
+        {
+          "client_id": "1097510303755-68oib679svq1fjmklhpk37g8qp652bi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRsVgb67Gu11NZNdMLO67FpSlEzbM5-KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097510303755-68oib679svq1fjmklhpk37g8qp652bi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
